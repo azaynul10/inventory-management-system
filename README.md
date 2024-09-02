@@ -111,7 +111,7 @@ This project was developed during a fellowship with The Headstarter.AI, guided b
 Explore the app live [here](https://inventorymanagementsystem-zaynul-abedin-miahs-projects.vercel.app/). For more projects and updates, visit my [GitHub profile](https://github.com/azaynul10).
 
 ## Badges
-http://githubbadges.com/star.svg)
+
 <img src="https://img.shields.io/github/stars/azaynul10/inventory-management-system.svg" alt="Github Stars">
 <img src="https://img.shields.io/github/forks/azaynul10/inventory-management-system.svg" alt="Github Forks">
 
